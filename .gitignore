@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.Rproj.user/
+
+# R
+.Rhistory
+.RData
+
+# TMB compiled files
+*.so
+*.o
+*.d
+
+# Results folders
+results_*/
