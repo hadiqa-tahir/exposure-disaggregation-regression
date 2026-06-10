@@ -1,10 +1,32 @@
 # macOS
 .DS_Store
-.Rproj.user/
 
 # R
 .Rhistory
+.Rapp.history
 .RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+.Renviron
+.httr-oauth
+
+# R build/check
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+
+# knitr / R markdown
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+
+# pkgdown
+docs/
+
+# RStudio Connect
+rsconnect/
 
 # TMB compiled files
 *.so
