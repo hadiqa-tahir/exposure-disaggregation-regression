@@ -1,10 +1,10 @@
-# Accounting for Human Movement to Improve Exposure-Health Models
+# [Accounting for Human Movement to Improve Exposure-Health Models](https://doi.org/10.64898/2026.06.15.26355663)
 
 **Hadiqa Tahir, Simon Smart, Samuel Cai, André Ng, Joshua Vande Hey, Tim CD Lucas**
 
 School of Medical Sciences, University of Leicester, Leicester, UK
 
-> Preprint forthcoming on medRxiv. This repository will be updated with a DOI when available.
+Preprint available at https://doi.org/10.64898/2026.06.15.26355663
 
 ------------------------------------------------------------------------
 
